@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Schedmate</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hallo_1_s">Hallo, %1$s!</string>
+    <string name="class_name">Kelas: %1$s</string>
+    <string name="class_code">Kode Kelas: %1$s</string>
+
+    <string-array name="teacher_class_data">
+        <item>Kelas 8.A</item>
+        <item>Kelas 8.B</item>
+        <item>Kelas 8.C</item>
+        <item>Kelas 9.A</item>
+        <item>Kelas 9.B</item>
+        <item>Mohammad Hatta</item>
+        <item>Soedirman</item>
+        <item>Soekarno</item>
+        <item>Soepomo</item>
+    </string-array>
+
+    <string-array name="mapel">
+        <item>Agama</item>
+        <item>PKN</item>
+        <item>Olahraga</item>
+        <item>Indonesia</item>
+        <item>Inggris</item>
+        <item>Mandarin</item>
+        <item>Matematika</item>
+        <item>Biologi</item>
+        <item>Fisika</item>
+        <item>Kimia</item>
+        <item>Senbud</item>
+        <item>Prakarya</item>
+        <item>Sejarah</item>
+        <item>Ekonomi</item>
+        <item>Sosiologi</item>
+        <item>Geografi</item>
+        <item>Komputer</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>Ulangan</item>
+        <item>PTS/PAS</item>
+        <item>Tugas</item>
+        <item>Presentasi</item>
+        <item>Proyek</item>
+        <item>Ekstrakurikuler</item>
+        <item>Organisasi</item>
+    </string-array>
+    <string name="title_activity_main_teacher">MainTeacherActivity</string>
+    <string name="title_activity_main_student">MainStudentActivity</string>
+
+
+</resources>
