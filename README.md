@@ -4,12 +4,12 @@ Schedmate is a scheduling application designed to help students and teachers man
 ### Team ID : C242-PS523
   
 ### Team Members
-1.M232B4KX0904 – Catharine Hening Larasati – Universitas Katolik Parahyangan - Machine Learning 
-2.M232B4KX1641 – Grace Loisa – Universitas Katolik Parahyangan  - Machine Learning 
-3.M232B4KX3259 – Natasha Priscilla – Universitas Katolik Parahyangan - Machine Learning 
-4.C243B4KY3466 – Owen Willianto – Universitas Kristen Maranatha - Cloud Computing 
-5.C485B4KY2347 – M. Ibnu Ziyad – STMIK Widya Pratama - Cloud Computing 
-6.A761B4KY0014 – Abdillah Fa'Iz – Politeknik IDN Bogor - Mobile Development 
+1. M232B4KX0904 – Catharine Hening Larasati – Universitas Katolik Parahyangan - Machine Learning - [Active]
+2. M232B4KX1641 – Grace Loisa – Universitas Katolik Parahyangan  - Machine Learning - [Active]
+3. M232B4KX3259 – Natasha Priscilla – Universitas Katolik Parahyangan - Machine Learning - [Active]
+4. C243B4KY3466 – Owen Willianto – Universitas Kristen Maranatha - Cloud Computing  - [Active]
+5. C485B4KY2347 – M. Ibnu Ziyad – STMIK Widya Pratama - Cloud Computing - [Active]
+6. A761B4KY0014 – Abdillah Fa'Iz – Politeknik IDN Bogor - Mobile Development - [Active]
 
 
 Theme : 
